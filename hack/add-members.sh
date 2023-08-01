@@ -38,6 +38,9 @@ do
      echo "Running in dry run mode."
      korg add "$username" --org "$REPOS"
    else
-     korg add "$username" --org "$REPOS" --confirm
+     # TODO: re-enable sync once Peribolos tool is fixed
+     # for managing team's repo permissions
+     # korg add "$username" --org "$REPOS" --confirm
+     korg add "$username" --org "$REPOS"
    fi
 done
