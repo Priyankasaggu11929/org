@@ -4,7 +4,9 @@ reviewers:
   - MadhavJivrajani
   - palnabarun
   - Priyankasaggu11929
-  - savitharaghunathan
+  - helayoty             # NMC
+  - jasonbraganza        # NMC
+  - ydFu                 # NMC
 approvers:
   - cblecker
   - MadhavJivrajani
@@ -12,10 +14,13 @@ approvers:
   - nikhita
   - palnabarun
   - Priyankasaggu11929
-  - savitharaghunathan
+  - helayoty             # NMC
+  - jasonbraganza        # NMC
+  - ydFu                 # NMC
 emeritus_approvers:
   - ameukam
   - calebamiles
   - fejta
   - idvoretskyi
+  - savitharaghunathan
   - spiffxp
